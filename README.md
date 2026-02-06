@@ -1,16 +1,41 @@
-## Hi there 👋
+# Selam! Ben Melike Nur Çotak 👋
 
-<!--
-**mel-nur/mel-nur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Yazılım Mühendisliği Öğrencisi | Backend Geliştirici Adayı
 
-Here are some ideas to get you started:
+Şu anda **Mehmet Akif Ersoy Üniversitesi**'nde Yazılım Mühendisliği 4. sınıf öğrencisiyim. Veri bilimi, makine öğrenmesi ve yapay zeka dünyasına duyduğum merakla kendimi sürekli geliştiriyorum. Aynı zamanda **Backend Geliştirme** (özellikle Spring Framework) üzerine yoğunlaşmış durumdayım.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Nelerle Uğraşıyorum?
+
+* 🔭 **Şu an üzerinde çalıştığım:** Kurumsal tedarik ve finans takip sistemi olan **SuppliFin** (TedarikZeka) projesi.
+* 🤖 **Yapay Zeka:** Görüntü işleme kullanarak İşaret Dili Alfabesi'ni metne dönüştüren bir proje geliştiriyorum.
+* 💻 **Backend:** Spring Framework ile projelerimi modernize ediyor ve Lastgen Software'deki stajımda deneyim kazanıyorum.
+* 📊 **Veri Bilimi:** Verileri anlamlandırmak ve makine öğrenmesi modelleri kurmak en büyük tutkum.
+
+### 🧰 Teknolojiler ve Araçlar
+
+* **Diller:** Java, Python, SQL
+* **Frameworkler:** Spring Boot, Django (temel), Flask
+* **Veri Bilimi:** Pandas, NumPy, Scikit-learn, TensorFlow/Keras
+* **Araçlar:** Git, Docker, PostgreSQL, Postman
+
+---
+
+### 🧶 Yazılım Dışında Ben
+
+Kod yazmadığım zamanlarda muhtemelen yeni bir **örgü veya tığ işi** projesi üzerinde çalışıyorumdur. Karmaşık bir algoritmayı çözmekle bir örgü örneğini tamamlamak arasındaki o benzer huzuru seviyorum. 
+
+---
+
+### 📫 Bana Ulaşın!
+
+* **LinkedIn:** [linkedin.com/in/melikenurcotak](https://linkedin.com/in/melikenurcotak)
+* **E-posta:** [cotakmelikenur2003@gmail.com]
+* **Konum:** Denizli, Türkiye 📍
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melikenurcotak&show_icons=true&theme=radical" alt="Melike'nin GitHub İstatistikleri" />
+</p>
