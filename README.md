@@ -1,38 +1,54 @@
-# Selam! Ben Melike Nur Çotak 👋
+# Selam, ben Melike Nur!
 
-### 🎓 Yazılım Mühendisliği Öğrencisi
+<p align="left">
+  <a href="https://linkedin.com/in/melikenurcotak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:email@adresin.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-Şu anda **Mehmet Akif Ersoy Üniversitesi**'nde Yazılım Mühendisliği 4. sınıf öğrencisiyim. Veri bilimi, makine öğrenmesi ve yapay zeka dünyasına duyduğum merakla kendimi sürekli geliştiriyorum. Aynı zamanda **Backend Geliştirme** (özellikle Spring Framework) üzerine yoğunlaşmış durumdayım.
+### 💻 Hakkımda
 
----
+**Yazılım Mühendisliği** son sınıf öğrencisi olarak, karmaşık problemleri zarif kodlarla çözmeye odaklanıyorum. Verinin gücüne (Data Science) ve sistemlerin sağlamlığına (Backend) inanıyorum. Şu an **Lastgen Software** bünyesinde gerçek dünya projelerine değer katıyorum.
 
-### 🛠️ Nelerle Uğraşıyorum?
-
-* 🔭 **Şu an üzerinde çalıştığım:** Kurumsal tedarik ve finans takip sistemi olan **SuppliFin** (TedarikZeka) projesi.
-* 🤖 **Yapay Zeka:** Görüntü işleme kullanarak İşaret Dili Alfabesi'ni metne dönüştüren bir proje geliştiriyorum.
-* 💻 **Backend:** Spring Framework ile projelerimi modernize ediyor ve Lastgen Software'deki stajımda deneyim kazanıyorum.
-* 📊 **Veri Bilimi:** Verileri anlamlandırmak ve makine öğrenmesi modelleri kurmak en büyük tutkum.
-
-### 🧰 Teknolojiler ve Araçlar
-
-* **Diller:** Java, Python, SQL
-* **Frameworkler:** Spring Boot, Flask
-* **Veri Bilimi:** Pandas, NumPy, Scikit-learn, TensorFlow/Keras
-* **Araçlar:** Git, Docker, PostgreSQL, Postman
+- 🎓 **Eğitim:** Mehmet Akif Ersoy Üniversitesi - Yazılım Mühendisliği (Haziran 2026 Mezuniyet)
+- 🏢 **Staj:** Lastgen Software | Backend Geliştirici Stajyeri
+- 📍 **Konum:** Denizli, Türkiye
 
 ---
 
-### 🧶 Yazılım Dışında Ben
+### 🛠️ Yetkinlik Seti
 
-Kod yazmadığım zamanlarda muhtemelen yeni bir **örgü veya tığ işi** projesi üzerinde çalışıyorumdur. Karmaşık bir algoritmayı çözmekle bir örgü örneğini tamamlamak arasındaki o benzer huzuru seviyorum. 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Backend & Core</b><br />
+      <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,postgres" />
+    </td>
+    <td align="center" width="33%">
+      <b>AI & Data Science</b><br />
+      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pandas,opencv" />
+    </td>
+    <td align="center" width="33%">
+      <b>Tools & DevOps</b><br />
+      <img src="https://skillicons.dev/icons?i=git,docker,postman,maven" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Bana Ulaşın!
+### 🚀 Öne Çıkan Projeler
 
-* **LinkedIn:** [linkedin.com/in/melikenurcotak](https://linkedin.com/in/melikenurcotak)
-* **E-posta:** [cotakmelikenur2003@gmail.com]
-* **Konum:** Denizli, Türkiye 📍
+- 🏦 **SuppliFin (TedarikZeka):** Kurumsal tedarik süreçlerini yapay zeka ile optimize eden finansal takip sistemi. (Bitirme Projesi)
+- 🛒 **StreamCart:** E-ticaret akışlarını yöneten gelişmiş backend mimarisi.
+- 🖐️ **Sign Language Translator:** İşaret dili alfabesini gerçek zamanlı olarak metne dönüştüren Computer Vision projesi.
 
 ---
 
+### 🌈 Kodun Ötesinde
+
+- Algoritmaların mantıksal yapısını, tığ işi ve örgünün döngüsel matematiğiyle birleştiriyorum. Benim için her satır kod, bir sistemin temelini oluşturan sağlam bir ilmek; her proje ise titizlikle örülmüş bir sanat eseri. 🏗️🧶
+---
