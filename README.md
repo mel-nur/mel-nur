@@ -1,6 +1,6 @@
 # Selam! Ben Melike Nur Çotak 👋
 
-### 🎓 Yazılım Mühendisliği Öğrencisi | Backend Geliştirici Adayı
+### 🎓 Yazılım Mühendisliği Öğrencisi
 
 Şu anda **Mehmet Akif Ersoy Üniversitesi**'nde Yazılım Mühendisliği 4. sınıf öğrencisiyim. Veri bilimi, makine öğrenmesi ve yapay zeka dünyasına duyduğum merakla kendimi sürekli geliştiriyorum. Aynı zamanda **Backend Geliştirme** (özellikle Spring Framework) üzerine yoğunlaşmış durumdayım.
 
@@ -16,7 +16,7 @@
 ### 🧰 Teknolojiler ve Araçlar
 
 * **Diller:** Java, Python, SQL
-* **Frameworkler:** Spring Boot, Django (temel), Flask
+* **Frameworkler:** Spring Boot, Flask
 * **Veri Bilimi:** Pandas, NumPy, Scikit-learn, TensorFlow/Keras
 * **Araçlar:** Git, Docker, PostgreSQL, Postman
 
@@ -36,6 +36,3 @@ Kod yazmadığım zamanlarda muhtemelen yeni bir **örgü veya tığ işi** proj
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melikenurcotak&show_icons=true&theme=radical" alt="Melike'nin GitHub İstatistikleri" />
-</p>
