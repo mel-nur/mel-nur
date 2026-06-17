@@ -31,7 +31,7 @@
     </td>
     <td align="center" width="33%">
       <b>AI & Data Science</b><br /><br />
-      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pandas,opencv" />
+      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
     </td>
     <td align="center" width="33%">
       <b>Tools & DevOps</b><br /><br />
