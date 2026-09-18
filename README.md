@@ -15,8 +15,8 @@
 
 ### 💻 Hakkımda
 
-- 🎓 **Eğitim:** Mehmet Akif Ersoy Üniversitesi — Yazılım Mühendisliği *(Haziran 2026 mezuniyet)*
-- 🏢 **Staj:** Lastgen Software — Backend Geliştirici Stajyeri
+- 🎓 **Eğitim:** Mehmet Akif Ersoy Üniversitesi — Yazılım Mühendisliği
+- 🏢 **İş:** Konasoft Yazılım — Yazılım Mühendisi
 - 📍 **Konum:** Denizli, Türkiye
 
 ---
